@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+textarea {
+    margin-top: 20px;
+    font-size: 16px;
+    width: 80%;
+    background-color: lightcyan;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
+
+p{
+    color: black;
+}
